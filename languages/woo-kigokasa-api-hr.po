@@ -1,0 +1,246 @@
+# Copyright (C) 2020 Symmetria d.o.o.
+# This file is distributed under the same license as the Woo KigoKasa API Integration plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo KigoKasa API Integration\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-kigokasa-"
+"api\n"
+"POT-Creation-Date: 2024-09-24 18:26+0200\n"
+"PO-Revision-Date: 2024-09-24 18:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: kigokasa-api-for-woocommerce\n"
+
+#: admin/class-woo-kigokasa-api-admin.php:168
+msgid "KigoKasa API"
+msgstr ""
+
+#: admin/class-woo-kigokasa-api-admin.php:184
+msgid "pos_type_0"
+msgstr "Onemogućeno"
+
+#: admin/class-woo-kigokasa-api-admin.php:185
+msgid "pos_type_1"
+msgstr "Račun"
+
+#: admin/class-woo-kigokasa-api-admin.php:186
+msgid "pos_type_2"
+msgstr "Ponuda"
+
+#: admin/class-woo-kigokasa-api-admin.php:205
+msgid "Document type"
+msgstr "Tip dokumenta"
+
+#: admin/class-woo-kigokasa-api-admin.php:210
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#: admin/class-woo-kigokasa-api-admin.php:211
+msgid "Invoice"
+msgstr "Račun"
+
+#: admin/class-woo-kigokasa-api-admin.php:212
+msgid "Offer"
+msgstr "Ponuda"
+
+#: admin/class-woo-kigokasa-api-admin.php:219
+msgid "Payment type"
+msgstr "Način plaćanja"
+
+#: admin/class-woo-kigokasa-api-admin.php:224
+msgid "Transaction account"
+msgstr "Transakcijski račun"
+
+#: admin/class-woo-kigokasa-api-admin.php:225
+msgid "Card"
+msgstr "Kartica"
+
+#: admin/class-woo-kigokasa-api-admin.php:226
+msgid "Cash"
+msgstr "Gotovina"
+
+#: admin/class-woo-kigokasa-api-admin.php:227
+msgid "Cheque"
+msgstr "Ček"
+
+#: admin/class-woo-kigokasa-api-admin.php:228
+msgid "Other"
+msgstr "Ostalo"
+
+#: admin/class-woo-kigokasa-api-admin.php:234
+msgid "Send Email with document PDF"
+msgstr "Šalji email s PDFom ponude/računa"
+
+#: admin/class-woo-kigokasa-api-admin.php:239
+msgid "No"
+msgstr "Ne"
+
+#: admin/class-woo-kigokasa-api-admin.php:240
+msgid "Yes"
+msgstr "Da"
+
+#: admin/class-woo-kigokasa-api-admin.php:254
+msgid "API account"
+msgstr "API korisnički račun"
+
+#: admin/class-woo-kigokasa-api-admin.php:259
+msgid "API Username"
+msgstr "API korisničko ime"
+
+#: admin/class-woo-kigokasa-api-admin.php:263
+msgid "Enter API username here"
+msgstr "Unesite API korisničko ime"
+
+#: admin/class-woo-kigokasa-api-admin.php:269
+msgid "API Password"
+msgstr "API Zaporka"
+
+#: admin/class-woo-kigokasa-api-admin.php:273
+msgid "Enter API password here"
+msgstr "Unesite API zaporku ovdje"
+
+#: admin/class-woo-kigokasa-api-admin.php:287
+msgid "Misc"
+msgstr "Ostalo"
+
+#: admin/class-woo-kigokasa-api-admin.php:292
+msgid "Employee PIN"
+msgstr "PIN zaposlenika"
+
+#: admin/class-woo-kigokasa-api-admin.php:296
+msgid "Enter API employee PIN here"
+msgstr "Unesite PIN zaposlenika ovdje"
+
+#: admin/class-woo-kigokasa-api-admin.php:302
+msgid "Shipping Reference Number"
+msgstr "Šifra usluge dostave"
+
+#: admin/class-woo-kigokasa-api-admin.php:306
+msgid "Enter Shipping Reference Number here"
+msgstr "Unesite šifru usluge dostave ovdje"
+
+#: admin/class-woo-kigokasa-api-admin.php:314
+msgid "E-mail settings"
+msgstr "E-mail postavke"
+
+#: admin/class-woo-kigokasa-api-admin.php:316
+msgid "This change is global."
+msgstr "Ova promjena je globalna"
+
+#: admin/class-woo-kigokasa-api-admin.php:319
+msgid "From name"
+msgstr "Od ime"
+
+#: admin/class-woo-kigokasa-api-admin.php:323
+msgid "Enter 'From' Name field here"
+msgstr "Unesite 'Od' Ime ovdje"
+
+#: admin/class-woo-kigokasa-api-admin.php:329
+msgid "From e-mail"
+msgstr "Od e-mail"
+
+#: admin/class-woo-kigokasa-api-admin.php:333
+msgid "Enter 'From' E-mail here"
+msgstr "Unesite 'Od' E-mail ovdje"
+
+#: admin/class-woo-kigokasa-api-admin.php:339
+msgid "Reply-To E-mail"
+msgstr "Odgovori na E-mail"
+
+#: admin/class-woo-kigokasa-api-admin.php:343
+msgid "Enter 'Reply-To' E-mail here"
+msgstr "Unesite 'Od' E-mail ovdje"
+
+#: admin/class-woo-kigokasa-api-admin.php:355
+msgid "Order Statuses"
+msgstr "Status narudžbe"
+
+#: admin/class-woo-kigokasa-api-admin.php:357
+msgid ""
+"Before any Kigo API call, plugin will check if call has already been made "
+"for same order"
+msgstr ""
+
+#: admin/class-woo-kigokasa-api-admin.php:360
+msgid "Skip create Kigo document on Order Status Created"
+msgstr ""
+
+#: admin/class-woo-kigokasa-api-admin.php:367
+msgid "No, create Kigo document on Order Created status"
+msgstr ""
+
+#: admin/class-woo-kigokasa-api-admin.php:368
+msgid "Yes, skip this order status"
+msgstr "Da, preskoči ovaj status narudžbe"
+
+#: admin/class-woo-kigokasa-api-admin.php:373
+msgid "Skip create Kigo document on Order Status Completed"
+msgstr ""
+
+#: admin/class-woo-kigokasa-api-admin.php:380
+msgid "No, create Kigo document on Order Completed status"
+msgstr ""
+
+#: admin/class-woo-kigokasa-api-admin.php:381
+msgid "Yes, skip skip this order status"
+msgstr "Da, preskoči ovaj status narudžbe"
+
+#: includes/class-woo-kigokasa-api-request.php:79
+msgid "pos_type_"
+msgstr ""
+
+#: includes/class-woo-kigokasa-api-request.php:93
+msgid "Web Order #"
+msgstr "Web Narudžba #"
+
+#: includes/class-woo-kigokasa-api-request.php:283
+#, php-format
+msgid "KigoKasa %1$s created with document number %2$s and payment type %3$s"
+msgstr "KigoKasa %1$s dokument dodan s brojem %2$s i načinom plaćanja %3$s"
+
+#: includes/class-woo-kigokasa-api-request.php:328
+#, php-format
+msgid "%1$s sending you %2$s no. %3$s"
+msgstr "%1$s vam šalje %2$s br. %3$s"
+
+#: includes/class-woo-kigokasa-api-request.php:337
+#, php-format
+msgid ""
+"Hi %1$s,<br /><br />Thank you for your order.<br /><br />Your %2$s with "
+"number <b>%3$s</b> is in the attachment.<br /><br />We look forward to "
+"fulfilling your order soon."
+msgstr ""
+"Poštovani %1$s,<br /><br />hvala vam na vašoj narudžbi.<br /><br />Vaš %2$s "
+"sa brojem <b>%3$s</b> je u prilogu.<br /><br />Vaša narudžba će uskoro biti "
+"spremna."
+
+#~ msgid "Shipping VAT number"
+#~ msgstr "OIB dostave"
+
+#~ msgid "Billing VAT number"
+#~ msgstr "OIB plaćanja"
+
+#~ msgid "Document number"
+#~ msgstr "Broj dokumenta"
+
+#~ msgid "VAT number"
+#~ msgstr "OIB"
+
+#~ msgid "Your %1$s %2$s"
+#~ msgstr "Vaš"
+
+#~ msgid "Flat Rate Shipping Reference Number"
+#~ msgstr "Šifra usluge 'Flat rate' dostave"
+
+#~ msgid "Document type for payment"
+#~ msgstr "Tip dokumenta za plaćanje"
+
+#~ msgid "Payment type for "
+#~ msgstr "Tip plaćanja za"
